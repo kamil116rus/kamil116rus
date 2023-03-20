@@ -38,7 +38,7 @@
   </a>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="с" alt="с" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="с++" alt="с++" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="go" alt="go" width="40" height="40"/>&nbsp
+  <img src="[https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg)" title="go" alt="go" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp
 </div>
 
