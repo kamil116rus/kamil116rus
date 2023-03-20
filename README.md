@@ -63,7 +63,7 @@
 
 ### 💻 Codewars: 
 
-[![codewars](https://www.codewars.com/users/impudens/badges/large)](https://www.codewars.com/users/kamil116rus)
+[![codewars](https://www.codewars.com/users/kamil116rus/badges/large)](https://www.codewars.com/users/kamil116rus)
 
 ### ⚙️ GitHub статистика:
 
