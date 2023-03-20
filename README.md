@@ -52,6 +52,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
+   <img src="https://camo.githubusercontent.com/33814af29e352c4985b084adb54f64a68ddfe57c2b89c656a0e2532fb824e59d/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f392f39652f596f75547562655f4c6f676f5f253238323031332d323031372532392e737667" title="youtube" alt="youtube" width="40" height="40"/>&nbsp;
 </div>
 
 
