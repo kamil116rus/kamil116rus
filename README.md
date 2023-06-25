@@ -9,22 +9,9 @@
 
 - :telescope: Изучаю C, Java.
 
-- :zap: Моя цель - работать в IT через год.
+- :zap: Моя цель - работать в IT c 2024 года.
 
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-kamilhakimov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/kamilhakimov) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kamil.hakimov78@gmail.com)
-
----
-
-### 🤝 Социальные сети:
-
-  <div id="badges">
-    <a href="https://t.me/kamilhakimov" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
-    </a>
-    <a href="https://vk.com/kamil_hakimov" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
-    </a>
-  </div>
 
 ---
 
