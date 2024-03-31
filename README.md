@@ -5,11 +5,9 @@
 
 ### :man_technologist: Обо мне:
 
-Я начинающий бэк-энд разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь начался с решения изменить направление деятельности и взгляд упал на IT. С апреля 2022 года начал изучать основы языка С на сайте [stepik.org/](https://stepik.org/users/498173218), паралельно проходя курс CS50 Основы программирования. В феврале 2023 я прошел интенсив от школы 21.
+Java-разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. 
 
-- :telescope: Изучаю C, Java.
 
-- :zap: Моя цель - работать в IT c 2024 года.
 
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-kamilhakimov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/kamilhakimov) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kamil.hakimov78@gmail.com)
 
