@@ -41,27 +41,3 @@ Java-разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmT
 </div>
 
 
-
----
-
-
-### 💻 Codewars: 
-
-[![codewars](https://www.codewars.com/users/kamil116rus/badges/large)](https://www.codewars.com/users/kamil116rus)
-
-### ⚙️ GitHub статистика:
-
-<table>
-  <tr>
-    <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=kamil116rus&theme=dark&background=000000" alt="webDev's Github stats">
-    </td>
-    <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kamil116rus&layout=compact&theme=vision-friendly-dark">
-    </td>
-  </tr>
-</table>
-
-
-<a href="http://www.github.com/kamil116rus"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=kamil116rus&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
